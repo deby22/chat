@@ -18,3 +18,10 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+
+## Info
+
+
+Tutorial project based on YT course:
+'A chat Room in 8 Minutes'
+https://youtu.be/ZUNzXbIP_FQ
